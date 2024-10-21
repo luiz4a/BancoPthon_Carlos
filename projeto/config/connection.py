@@ -5,7 +5,7 @@ from contextlib import contextmanager
 
 # Parâmetros de conexão com MySQL.
 db_user = "user"
-db_passsword = "USer_password"
+db_passsword = "user_password"
 db_host = "localhost"
 db_port = "3306"
 db_name = "meu_banco"
